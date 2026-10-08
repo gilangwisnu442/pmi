@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 160" width="340" height="160" fill="none">
+  <!-- Kelopak Bunga Melati PMI berkelopak lima -->
+  <g transform="translate(80, 80)">
+    <!-- 5 petals formed with rounded circles/petals -->
+    <circle cx="0" cy="-38" r="28" fill="#ffffff" stroke="#DC2626" stroke-width="6" />
+    <circle cx="36" cy="-12" r="28" fill="#ffffff" stroke="#DC2626" stroke-width="6" />
+    <circle cx="22" cy="31" r="28" fill="#ffffff" stroke="#DC2626" stroke-width="6" />
+    <circle cx="-22" cy="31" r="28" fill="#ffffff" stroke="#DC2626" stroke-width="6" />
+    <circle cx="-36" cy="-12" r="28" fill="#ffffff" stroke="#DC2626" stroke-width="6" />
+    <circle cx="0" cy="0" r="38" fill="#ffffff" />
+    
+    <!-- Red Cross in center -->
+    <rect x="-8.5" y="-30" width="17" height="60" fill="#DC2626" rx="1.5" />
+    <rect x="-30" y="-8.5" width="60" height="17" fill="#DC2626" rx="1.5" />
+  </g>
+
+  <!-- Typography: Palang Merah Indonesia -->
+  <text x="160" y="55" font-family="'Plus Jakarta Sans', 'Arial Black', Impact, sans-serif" font-weight="800" font-size="28" fill="#111827" letter-spacing="-0.5">Palang</text>
+  <text x="160" y="87" font-family="'Plus Jakarta Sans', 'Arial Black', Impact, sans-serif" font-weight="800" font-size="28" fill="#111827" letter-spacing="-0.5">Merah</text>
+  <text x="160" y="119" font-family="'Plus Jakarta Sans', 'Arial Black', Impact, sans-serif" font-weight="800" font-size="28" fill="#111827" letter-spacing="-0.5">Indonesia</text>
+</svg>

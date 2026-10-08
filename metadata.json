@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Manajemen Pengaduan Acara Kepalangmerahan PMI",
+  "description": "Aplikasi komprehensif manajemen pengaduan acara kegiatan kepalangmerahan Palang Merah Indonesia dengan pelacakan tiket, alur tindak lanjut, dan pelaporan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
